@@ -19,11 +19,11 @@ An intelligent conversational AI assistant designed for **zaluzi.lv** (SIA "WWW.
 
 ## 🏢 About the Client: zaluzi.lv
 
-# Project screenshots
-* https://github.com/viktors1248/AI-Assistant/blob/main/Bot_%D0%90%D0%B3%D0%B5%D0%BD%D1%82_%D0%96%D0%B0%D0%BB%D1%8E%D0%B7%D0%B8_Dialog.png?raw=true
-
-
 *   **Services:** Production and installation of all types of blinds (Pleated, Day-Night, Roller, Horizontal, Vertical, Roman Shades, Facade Systems, etc.), mosquito nets, curtains, and automation.
 *   **Region:** Operating across all regions of Latvia, the Baltic States, and the European Union.
 *   **Contact:** +371 66 444 333 | info@zaluzi.lv
 *   **Office:** Rīga, Zalves iela 75, LV-1046
+
+# Project screenshots
+* https://github.com/viktors1248/AI-Assistant/blob/main/Bot_%D0%90%D0%B3%D0%B5%D0%BD%D1%82_%D0%96%D0%B0%D0%BB%D1%8E%D0%B7%D0%B8_Dialog.png?raw=true
+
