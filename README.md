@@ -1,7 +1,7 @@
 # AI-Assistant
 AI Assistant, created on Prompt Engineering Workshop on 20260508
 # 🤖 AI Assistant for Blinds Installation Company
-
+The link to the project:    https://t.me/newzaluzi_bot
 ## 📋 Project Overview
 
 An intelligent conversational AI assistant designed for **zaluzi.lv** (SIA "WWW.ŽALUZI.EU"), a leading manufacturer of blinds and sun protection systems in Latvia, the Baltic States, and the EU. The assistant automates customer communication, provides instant support, and streamlines the appointment booking process.
